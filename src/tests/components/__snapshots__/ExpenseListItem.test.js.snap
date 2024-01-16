@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ExpenseListItem for one expense mock item 1`] = `
+<div>
+  <Link
+    to="/edit/1"
+  >
+    <h3>
+      Gum
+       
+      1
+    </h3>
+  </Link>
+  <p>
+    Amount: 
+    10
+  </p>
+  <p>
+    Date of creation: 
+    0
+  </p>
+</div>
+`;
