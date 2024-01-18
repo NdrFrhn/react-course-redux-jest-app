@@ -12,12 +12,11 @@ exports[`should render ExpenseListItem for one expense mock item 1`] = `
     </h3>
   </Link>
   <p>
-    Amount: 
-    10
-  </p>
-  <p>
-    Date of creation: 
-    0
+    £
+     
+    0.10
+    -
+    1st January, 1970
   </p>
 </div>
 `;

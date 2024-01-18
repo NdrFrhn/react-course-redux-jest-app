@@ -8,6 +8,7 @@ import NotFoundPage from '../components/NotFoundPage';
 import Header from '../components/Header';
 import history from '../history';
 import 'react-dates/lib/css/_datepicker.css';
+// import '../firebase/firebase';
 
 function ProfilePage() {
   // Get the userId param from the URL.
